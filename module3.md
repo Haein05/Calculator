@@ -58,8 +58,8 @@ Note that `IM` stands for Individual Module and `TP` stands for Team Project.
 | Date | Start Time | IM or TP | Description          | Hours:Minutes |
 |--| ---------- | -------- | -------------------- | ------------- |
 | May 29 | 2:15       | IM       | study for code       | 2H 30Mins     |
-| May 30 | 4:00       | IM       | start to make html   | 1H 30Mins     |
-| May 31 | 10:30      | IM       | make script for java | 2H            |
+| May 30 | 4:00       | IM       | start to make my own code   | 1H 30Mins     |
+| May 31 | 10:30      | IM       | make script for Kotlin | 2H            |
 | June 1 | 11:30      | IM       | study for code       | 1H            |
 | June 3 | 5:00       | IM       | developing code      | 2H            |
 | June 4 | 12:00      | IM       | developing, testing code|    2H      |
@@ -72,9 +72,9 @@ _Note: Add more rows as needed._
 
 This section should be filled out at the end of the Sprint and submitted.
 
-1. Put your GitHub link for your demonstration software here:
+1. Put your GitHub link for your demonstration software here: https://github.com/Haein05/Calculator?tab=readme-ov-file
 
-2. Put your YouTube link for your code walkthrough and demo video here:
+2. Put your YouTube link for your code walkthrough and demo video here: https://www.youtube.com/watch?v=VIwok7maC_s
 
 3. Complete the following checklist by either indicating "Yes" or "No". If you indicate "No" then provide an explanation of why beneath the table.
 
